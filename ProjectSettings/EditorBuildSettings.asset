@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Save Select.unity
+    guid: 2cc3c5b571049e64b87baafa0dde9dfb
+  - enabled: 1
+    path: Assets/Scenes/House Start/Bedroom Start.unity
+    guid: 55047ddaef3b6b249ac3135275300137
+  - enabled: 1
+    path: Assets/Scenes/House Start/Dining Start.unity
+    guid: f309626833f4cae4981a2efdd352c70b
+  - enabled: 1
+    path: Assets/Scenes/House Start/Entrance Start.unity
+    guid: 9363950aa85299b479c9d3ac1a4494ce
+  - enabled: 1
+    path: Assets/Scenes/House Start/Hallway Start.unity
+    guid: bc1eeff42a678184dbca3fa39d42a5b5
+  - enabled: 1
+    path: Assets/Scenes/House Start/Kitchen Start.unity
+    guid: 8a8d2f7f5c1f16447bea1f6ceeea123d
+  - enabled: 1
+    path: Assets/Scenes/House Start/Parent Start.unity
+    guid: 13728f5fee2dc7f45b68fdda656cead4
+  - enabled: 1
+    path: Assets/Scenes/House Start/Bathroom Start.unity
+    guid: 9cf20a3f3caebc948bc6489ca0d50e67
+  - enabled: 1
+    path: Assets/Scenes/School/Hallway School.unity
+    guid: 2060f73ef2077384198b51265ceb3b63
+  - enabled: 1
+    path: Assets/Scenes/School/Classroom.unity
+    guid: 14498c4a993af1443838cadef38b53ab
+  - enabled: 1
+    path: Assets/Scenes/School/Reality.unity
+    guid: f82e8532da959ec4690ffc1a100f55f4
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Bathroom Choice.unity
+    guid: 9485182e4ccc49d4192ecaa1af8b4772
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Bedroom Choice.unity
+    guid: 8b5a28d642060c6438c811a407dcda48
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Dining Choice.unity
+    guid: d7f91a1f8e68682458b7fd61f34e9c83
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Entrance Choice.unity
+    guid: bba9609520d3fc64bb7329f25ec25cfc
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Hallway Choice.unity
+    guid: 7f04a8be578aeec4085afee2106008e0
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Kitchen Choice.unity
+    guid: eb2bd451d3c4e8b4287e9a949d9f4ef1
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Parent Choice.unity
+    guid: dac0d367eb6f4144ea1844a6d2d4225f
+  - enabled: 1
+    path: Assets/Scenes/House Choice/Storage.unity
+    guid: a28a39dbe94ba784e984d2d33d3bffdd
+  - enabled: 1
+    path: Assets/Scenes/House Nightmare/Nightmare House.unity
+    guid: 4c4f1a6c8fcc30f4a82e93afa10fb89f
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/EnterCave.unity
+    guid: 9d180fb9f8f719948bd231dcf3fa025a
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Battle Tutorial.unity
+    guid: ddbf6dedb3da7da4e8762a67a59e0c83
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Boss Battle.unity
+    guid: 7d845496bc12a70408f7eb5a466867d3
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Easter Egg.unity
+    guid: 11b4a9ee9fbf72e48a97ab2b262a139f
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Item Puzzle.unity
+    guid: b945b5a0c08b5e84aa7469d4fcab3766
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Shops.unity
+    guid: 82802c6b33fd79040bf8d2a335f8efb4
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Forest/Forest Start.unity
+    guid: 78c5641d06bc66140ad50022cc19bcf6
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Boss Battle.unity
+    guid: 1f9fad09fd7bd13459ebf5daca2b37f9
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Easter Egg.unity
+    guid: ef19b9c68434b4543aa973ec9b12f357
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Puzzle 1.unity
+    guid: bf9ffb2ad4499d64ba7e0005d163d68a
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Puzzle 2.unity
+    guid: 26c5016e1a6297a4599c2aaf5fa888dc
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Shops.unity
+    guid: 25213522e20c3314f8ac4faa0413f8d7
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/Cave Start.unity
+    guid: d805f28e8867c504386a5bab84ddeea8
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Cave/End.unity
+    guid: 968e8d74bca365e4eb64c4b7ff3df351
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Cave Battle.unity
+    guid: f46bd99d50e393f499f96ae97443c18e
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Eselor Battle.unity
+    guid: f8b90304cb440354391f87ba1e5665d8
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Forest Battle.unity
+    guid: 60710ebdabeaa57489a892e025179a13
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Simple Battle1.unity
+    guid: 27958d415461b724382cc420f911bbc3
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Simple Battle2.unity
+    guid: aba47dd1b9c5b5845b1a957ab45e8d7e
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Simple Battle3.unity
+    guid: f237cba724ce79740a1a0dc43259c401
+  - enabled: 1
+    path: Assets/Scenes/Alternate Universe/Battles/Simple Battle4.unity
+    guid: 41d665505513aef40be490791daa282b
+  m_configObjects: {}
